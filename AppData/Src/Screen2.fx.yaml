@@ -33,7 +33,16 @@ Screen2 As screen:
         Size: =20
         Text: ="Submit"
         Width: =217
-        X: =539
+        X: =221
         Y: =501
         ZIndex: =5
+
+    Button1_1 As button:
+        Height: =69
+        Size: =20
+        Text: ="Ok"
+        Width: =217
+        X: =513
+        Y: =501
+        ZIndex: =6
 
