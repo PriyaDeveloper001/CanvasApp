@@ -46,3 +46,10 @@ Screen2 As screen:
         Y: =501
         ZIndex: =6
 
+    TextInput4_1 As text:
+        Default: ="Contact 123"
+        Size: =18
+        X: =805
+        Y: =416
+        ZIndex: =7
+
